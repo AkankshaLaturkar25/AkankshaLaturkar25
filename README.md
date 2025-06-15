@@ -16,7 +16,7 @@ Currently working on smart assistant and AI-driven prediction projects
  Projects
 
 -  Sugarcane Leaf Disease Detection](https://github.com/AkankshaLaturkar25/Sugarcane-Leaf-Disease-Detection)
--  Cancer Mortality Rate Analysis](https://github.com/AkankshaLaturkar25/Cancer-Mortality-Rate)
+-  Text_classification](https://github.com/AkankshaLaturkar25/Text-Classification.git)
 -  Cancer_mortalities_rates](https://github.com/AkankshaLaturkar25/Cancer_mortalities_rates.git)
 - Voice Cooking Assistant](https://github.com/AkankshaLaturkar25/voice-cooking-assistant)
 
